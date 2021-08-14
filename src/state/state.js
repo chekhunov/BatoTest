@@ -73,39 +73,39 @@ let state = {
   slider: [
     {
       id: 1,
-      img: '/top/slider/1.png',
+      img: '../assets/top/slider/1.png',
       link: 'https://youtu.be/9mZmc6a0tmM',
     },
     {
       id: 2,
-      img: '/top/slider/1.png',
+      img: '../assets/top/slider/1.png',
       link: 'https://youtu.be/9mZmc6a0tmM',
     },
     {
       id: 3,
-      img: '/top/slider/1.png',
+      img: '../assets/top/slider/1.png',
       link: 'https://youtu.be/9mZmc6a0tmM',
     }
   ],
   sliderServices: [
     {
       id: 0,
-      img: '/services/slider/1.jpg',
+      img: '../assets/services/slider/1.jpg',
       link: 'https://youtu.be/9mZmc6a0tmM',
     },
     {
       id: 1,
-      img: '/services/slider/2.jpg',
+      img: '../assets/services/slider/2.jpg',
       link: 'https://youtu.be/9mZmc6a0tmM',
     },
     {
       id: 2,
-      img: '/services/slider/1.jpg',
+      img: '../assets/services/slider/1.jpg',
       link: 'https://youtu.be/9mZmc6a0tmM',
     },
     {
       id: 3,
-      img: '/services/slider/1.jpg',
+      img: '../assets/services/slider/1.jpg',
       link: 'https://youtu.be/9mZmc6a0tmM',
     }
   ]
