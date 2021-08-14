@@ -1,0 +1,33 @@
+.menu-mobile {
+  position: fixed;
+  width: 100%;
+  background-color: rgba(20, 51, 224, 1);
+  top: 133px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 25;
+  margin: 0;
+  padding: 0;
+
+    &__meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.menu-inner {
+    display: flex;
+    margin-top: 16%;
+    margin-left: 26%;
+}
+
+
+@media screen and (max-width: 767px) {
+    
+.menu-inner {
+    margin-top: 0;
+    margin-left: 10%;
+    }
+  }
