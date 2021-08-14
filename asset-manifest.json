@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BatoTest/static/css/main.b139f3e6.chunk.css",
-    "main.js": "/BatoTest/static/js/main.4f7f1b7a.chunk.js",
-    "main.js.map": "/BatoTest/static/js/main.4f7f1b7a.chunk.js.map",
+    "main.js": "/BatoTest/static/js/main.d507f490.chunk.js",
+    "main.js.map": "/BatoTest/static/js/main.d507f490.chunk.js.map",
     "runtime-main.js": "/BatoTest/static/js/runtime-main.38d3c6ec.js",
     "runtime-main.js.map": "/BatoTest/static/js/runtime-main.38d3c6ec.js.map",
     "static/js/2.1eb82574.chunk.js": "/BatoTest/static/js/2.1eb82574.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.38d3c6ec.js",
     "static/js/2.1eb82574.chunk.js",
     "static/css/main.b139f3e6.chunk.css",
-    "static/js/main.4f7f1b7a.chunk.js"
+    "static/js/main.d507f490.chunk.js"
   ]
 }
