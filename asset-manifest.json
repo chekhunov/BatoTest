@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BatoTest/static/css/main.b139f3e6.chunk.css",
+    "main.css": "/BatoTest/static/css/main.a463e2e3.chunk.css",
     "main.js": "/BatoTest/static/js/main.2c2e0a50.chunk.js",
     "main.js.map": "/BatoTest/static/js/main.2c2e0a50.chunk.js.map",
     "runtime-main.js": "/BatoTest/static/js/runtime-main.38d3c6ec.js",
@@ -8,14 +8,14 @@
     "static/js/2.1eb82574.chunk.js": "/BatoTest/static/js/2.1eb82574.chunk.js",
     "static/js/2.1eb82574.chunk.js.map": "/BatoTest/static/js/2.1eb82574.chunk.js.map",
     "index.html": "/BatoTest/index.html",
-    "static/css/main.b139f3e6.chunk.css.map": "/BatoTest/static/css/main.b139f3e6.chunk.css.map",
+    "static/css/main.a463e2e3.chunk.css.map": "/BatoTest/static/css/main.a463e2e3.chunk.css.map",
     "static/js/2.1eb82574.chunk.js.LICENSE.txt": "/BatoTest/static/js/2.1eb82574.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/BatoTest/static/media/icomoon.df8b42f4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.38d3c6ec.js",
     "static/js/2.1eb82574.chunk.js",
-    "static/css/main.b139f3e6.chunk.css",
+    "static/css/main.a463e2e3.chunk.css",
     "static/js/main.2c2e0a50.chunk.js"
   ]
 }
